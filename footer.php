@@ -25,7 +25,7 @@
 <script src="js/student.js"></script>
 	
 <script src="js/bootstrap.js"></script>
-<script src="js/base.js"></script>
+
 
 
   </body>
