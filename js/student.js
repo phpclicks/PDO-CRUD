@@ -10,7 +10,7 @@ $(function()
 				$("#success-msg").show();
 				setTimeout(function()
 				{ 
-				location.href = "list.php";
+				location.href = "index.php";
 				 },4000);
 			}
 			else
@@ -38,7 +38,7 @@ $(function()
 				$("#success-msg").show();
 				setTimeout(function()
 				{ 
-				location.href = "list.php";
+				location.href = "index.php";
 				 },4000);
 			}
 			else
